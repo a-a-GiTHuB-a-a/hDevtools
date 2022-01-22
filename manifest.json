@@ -1,0 +1,6 @@
+{
+  "name": "hDevtools",
+  "version": "2022.1.22",
+  "manifest_version": 1,
+  "description": "A DevTools extension for hApps."
+}
