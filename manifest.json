@@ -1,7 +1,7 @@
 {
   "name": "hDevtools",
-  "version": "2022.02.04.1",
-  "manifest_version": 1,
-  "devtools_page": "src/panel.html",
+  "version": "2022.02.04.2",
+  "manifest_version": 2,
+  "devtools_page": "src/script-import.html",
   "description": "A DevTools extension for hApps."
 }
